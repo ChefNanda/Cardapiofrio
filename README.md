@@ -61,16 +61,19 @@ Molho
 ![image](https://github.com/ChefNanda/Cardapiofrio/assets/168487392/7cccf65c-21e1-4622-bb6f-ecc7c9844bc9)
 
 <h3>INGREDIENTES</h3>
-1. 100 g de Carpaccio de lagarto
-2. Folhas de Rúcula
-3. 5 colheres de sopa de Azeite Andorinha Extravirgem
-4. 5 colheres de sopa de Mostarda Amarela
-5. 40 g de Alcaparras
-6. Sal a gosto
-7. Pimenta do reino preta a gosto
-8. Queijo Parmesão Ralado
+<p>100 g de Carpaccio de lagarto</p>
+<p>Folhas de Rúcula</p>
+<p>5 colheres de sopa de Azeite Andorinha Extravirgem</p>
+<p>5 colheres de sopa de Mostarda Amarela</p>
+<p>40 g de Alcaparras</p>
+<p>Sal a gosto</p>
+<p>Pimenta do reino preta a gosto</p>
+<p>Queijo Parmesão Ralado</p>
+
 
 <h3>MODO DE PREPARO</h3>
-1- Disponha as fatias de carpaccio uma ao lado da outra em um prato raso e as folhas de rúcula por cima.
-2- Misture o azeite, a mostarda, o sal e a pimenta com um garfo ou fouet até formar um molho.
-3- Regue as fatias de carpaccio com esse molho, coloque as alcaparras e salpique o parmesão ralado. Sirva com pão ou torradas
+<p>Disponha as fatias de carpaccio uma ao lado da outra em um prato raso e as folhas de rúcula por cima.</p>
+<p>Misture o azeite, a mostarda, o sal e a pimenta com um garfo ou fouet até formar um molho.</p>
+<p>Regue as fatias de carpaccio com esse molho, coloque as alcaparras e salpique o parmesão ralado. Sirva com pão ou torradas
+</p>
+
