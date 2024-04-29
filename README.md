@@ -24,25 +24,25 @@
 
 ![image](https://github.com/ChefNanda/Cardapiofrio/assets/168487392/eba9cdae-920f-472b-8311-893b95e90dc1)
 
-Ingredientes
+<h3>Ingredientes</h3>
 
-350 gr de camarão
-1/2 maço de rúcula
-1 maço de alface crespa
-1 unidade de limão
-2 fatias de bacon
-Croûtons a gosto
-2 colheres (sopa) de queijo ralado
-Sal a gosto
-Pimenta-do-reino branca a gosto
+<p>350 gr de camarão</p>
+<p>1/2 maço de rúcula</p>
+<p>1 maço de alface crespa</p>
+<p>1 unidade de limão</p>
+<p>2 fatias de bacon</p>
+<p>Croûtons a gosto</p>
+<p>2 colheres (sopa) de queijo ralado</p>
+<p>Sal a gosto</p>
+<p>Pimenta-do-reino branca a gosto</p>
 
 Molho
 
-1/2 unidade de limão
-2 colheres (sopa) de maionese
-1 unidade de alho picadinho
-1/2 colher (sopa) de mostarda
-1 colher (chá) de molho inglês
+<p>1/2 unidade de limão</p>
+<p>2 colheres (sopa) de maionese</p>
+<p>1 unidade de alho picadinho</p>
+<p>1/2 colher (sopa) de mostarda</p>
+<p>1 colher (chá) de molho inglês</p>
 
 Como Fazer
 
