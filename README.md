@@ -6,13 +6,13 @@
 
 ![image](https://github.com/ChefNanda/Cardapiofrio/assets/168487392/30be11ae-9722-421d-accf-191f62686cc1)
 
-Ingredientes
-2 tomates cortados em rodelas
-2 muçarelas de búfala cortadas em rodelas
-1 maço de manjericão
-100g de pinolis (opcional)
-Pimenta-do-reino a gosto
-Azeite a gosto
+<h3> Ingredientes </h3>
+<p>2 tomates cortados em rodelas</p>
+<p>2 muçarelas de búfala cortadas em rodelas</p>
+<p>1 maço de manjericão</p>
+<p>100g de pinolis (opcional)</p>
+<p>Pimenta-do-reino a gosto</p>
+<p>Azeite a gosto</p>
 
 Modo de Preparo
 Arrume as rodelas de muçarela de búfala sobre as de tomate.
