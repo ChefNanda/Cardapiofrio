@@ -14,11 +14,11 @@
 <p>Pimenta-do-reino a gosto</p>
 <p>Azeite a gosto</p>
 
-Modo de Preparo
-Arrume as rodelas de muçarela de búfala sobre as de tomate.
-Macere as folhas de manjericão no pilão com um pouco de azeite e distribua sobre a salada.
-Tempere com sal e pimentadoreino.
-Decore com folhas inteiras de manjericão e, se desejar, acrescente também pinolis.
+<h3>Modo de Preparo</h3>
+<p>Arrume as rodelas de muçarela de búfala sobre as de tomate.</p>
+<p>Macere as folhas de manjericão no pilão com um pouco de azeite e distribua sobre a salada.</p>
+<p>Tempere com sal e pimentadoreino.</p>
+<p>Decore com folhas inteiras de manjericão e, se desejar, acrescente também pinolis.</p>
 
 ## 2 - Ceasers com camarão
 
